@@ -3,4 +3,4 @@
 * [Video](https://bit.ly/compsci4video):  https://bit.ly/compsci4video
 * isEachEven
     * [Python](https://github.com/whscompsciclub/Lessons/blob/main/(4)-10.21%20(Java%20%26%20Python)/isEachEven.py)
-     
+    * [Java](https://github.com/whscompsciclub/Lessons/blob/main/(4)-10.21%20(Java%20%26%20Python)/isEachEven.java)
