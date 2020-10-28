@@ -12,18 +12,17 @@ public class isPalindrome {
       Scanner scanner = new Scanner(System.in);
       String temp = scanner.nextLine();
       int a[] = new int[temp.length()];
+      String number = "";
       for(int i = 0; i < temp.length(); i++){
-         a[i] = temp.charAt(i) - '0';
+        a[i] = temp.charAt(i) - '0';
+        number += a[i];
       }
 
       // Start your code here
-      String num = "";              // to output the number at the end
       Boolean palindrome = true;    // to determine if it is or it isnt a palindrome
       
-      // loop through all digits
-      for(int i = 0; i < temp.length(); i++){
-        num += a[i];                // append or concatenate the digit
-        
+      // loop through half the digits
+      for(int i = 0; i < temp.length()/2; i++){
         // checks if the digit from the front is NOT equal to the digit from the back  
         if(a[i] != a[temp.length() - i -1]){        
           palindrome = false;       // set palindrom (boolean) to false
@@ -32,10 +31,10 @@ public class isPalindrome {
       
       // output results
       if(palindrome){               
-        System.out.println(num + " is a palindrome");
+        System.out.println(number + " is a palindrome");
       }
       else{
-        System.out.println(num + " is not a palindrome");
+        System.out.println(number + " is not a palindrome");
       }
 
 	}
