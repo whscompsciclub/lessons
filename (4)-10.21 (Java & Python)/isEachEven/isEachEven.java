@@ -1,4 +1,6 @@
-public class isEachEven{
+package isEachEven;
+
+public class isEachEven {
     public static void main(String []args){
         // declare and intialize an empty array of length 10 
         int myArray[] = new int[10];
