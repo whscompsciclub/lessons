@@ -3,5 +3,8 @@
 * [Video](https://bit.ly/compsci4video):  https://bit.ly/compsci4video
 * [HackerRank](https://bit.ly/compscihackerrank): https://bit.ly/compscihackerrank
 * isEachEven
-    * [Python](https://github.com/whscompsciclub/Lessons/blob/main/(4)-10.21%20(Java%20%26%20Python)/isEachEven.py)
-    * [Java](https://github.com/whscompsciclub/Lessons/blob/main/(4)-10.21%20(Java%20%26%20Python)/isEachEven.java)
+    * [Java](https://github.com/whscompsciclub/Lessons/blob/main/(4)-10.21%20(Java%20%26%20Python)/isEachEven/isEachEven.java)
+    * [Python](https://github.com/whscompsciclub/Lessons/blob/main/(4)-10.21%20(Java%20%26%20Python)/isEachEven/isEachEven.py)
+* isPalindrome
+    * [Java](https://github.com/whscompsciclub/Lessons/blob/main/(4)-10.21%20(Java%20%26%20Python)/isPalindrome/isPalindrome.java)
+    * [Python](https://github.com/whscompsciclub/Lessons/blob/main/(4)-10.21%20(Java%20%26%20Python)/isPalindrome/isPalindrome.py)
