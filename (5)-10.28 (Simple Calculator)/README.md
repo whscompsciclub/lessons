@@ -3,5 +3,5 @@
 * [Video](https://bit.ly/compsci4video):  https://bit.ly/compsci5video
 * [HackerRank](https://bit.ly/compscihackerrank): https://bit.ly/compscihackerrank
 * Simple Calculator
-    * [Java](https://github.com/whscompsciclub/Lessons/blob/main/)
+    * [Java](https://github.com/whscompsciclub/Lessons/blob/main/(5)-10.28%20(Simple%20Calculator)/Simple%20Calculator/simpleCalculator.java)
     * [Python](https://github.com/whscompsciclub/Lessons/blob/main/)
