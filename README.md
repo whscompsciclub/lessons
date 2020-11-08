@@ -1,4 +1,4 @@
-Hello and welcome to **WHS Computer Science Club!**    
+Hello and welcome to **WHS & SMS Computer Science Club!**    
 We strive to create a friendly environment to inspire all students to have fun with computer science!  
 
 # WHS & SMS Computer Science Club
@@ -16,5 +16,6 @@ We strive to create a friendly environment to inspire all students to have fun w
 - Linktree: [https://bit.ly/smscsclinktree](https://bit.ly/smscsclinktree)
 - GitHub: [https://bit.ly/compscigithub](https://bit.ly/compscigithub)
 - Website: [https://bit.ly/compsciwebsite](https://bit.ly/compsciwebsite)
+- Google Classroom: [http://bit.ly/smscscclassroom](http://bit.ly/smscscclassroom)
 - Sign-Up Form: [https://bit.ly/smscscform](https://bit.ly/smscscform)
 - Remind: @smscompsci or [https://remind.com/join/smscompsci](https://remind.com/join/smscompsci)
