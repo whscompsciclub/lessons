@@ -8,3 +8,14 @@ Information/Code from corresponding Lessons can be found here:
 * > (4): 10/21/20: [**Java & Python**](https://github.com/whscompsciclub/Lessons/tree/main/(4)-10.21%20(Java%20%26%20Python))   
 * > (5): 10/28/20: [**Simple Calculator**](https://github.com/whscompsciclub/Lessons/tree/main/(5)-10.28%20(Simple%20Calculator))
 * > (6): 11/04/20: [**USACO**](https://github.com/whscompsciclub/Lessons/tree/main/(6)-11.04%20(USACO))
+
+Hello and welcome to WHS Computer Science Club! We strive to create a friendly environment to inspire all students to have fun with computer science!  
+Linktree: [https://bit.ly/compscilinktree](https://bit.ly/compscilinktree)
+GitHub: [https://bit.ly/compscigithub](https://bit.ly/compscigithub)
+Sign-Up Form: [https://bit.ly/compsciform](https://bit.ly/compsciform)
+Discord: [https://bit.ly/compscidiscord](https://bit.ly/compscidiscord)
+Remind: @walnutcs or [https://remind.com/join/walnutcs](https://remind.com/join/walnutcs)
+
+
+
+
