@@ -9,7 +9,10 @@ Information/Code from corresponding Lessons can be found here:
 * > (5): 10/28/20: [**Simple Calculator**](https://github.com/whscompsciclub/Lessons/tree/main/(5)-10.28%20(Simple%20Calculator))
 * > (6): 11/04/20: [**USACO**](https://github.com/whscompsciclub/Lessons/tree/main/(6)-11.04%20(USACO))
 
-Hello and welcome to WHS Computer Science Club! We strive to create a friendly environment to inspire all students to have fun with computer science!  
+
+Hello and welcome to WHS Computer Science Club! 
+We strive to create a friendly environment to inspire all students to have fun with computer science!  
+
 Linktree: [https://bit.ly/compscilinktree](https://bit.ly/compscilinktree)
 GitHub: [https://bit.ly/compscigithub](https://bit.ly/compscigithub)
 Sign-Up Form: [https://bit.ly/compsciform](https://bit.ly/compsciform)
