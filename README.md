@@ -11,7 +11,7 @@ Hello and welcome to **WHS Computer Science Club!** We strive to create a friend
 - Sign-Up Form: [https://bit.ly/compsciform](https://bit.ly/compsciform)
 - Discord: [https://bit.ly/compscidiscord](https://bit.ly/compscidiscord)
 - Remind: @walnutcs or [https://remind.com/join/walnutcs](https://remind.com/join/walnutcs)
-## SMS Comp Sci Club Links
+### SMS Comp Sci Club Links
 - Linktree: [https://bit.ly/smscsclinktree](https://bit.ly/smscsclinktree)
 - GitHub: [https://bit.ly/compscigithub](https://bit.ly/compscigithub)
 - Website: [https://bit.ly/compsciwebsite](https://bit.ly/compsciwebsite)
