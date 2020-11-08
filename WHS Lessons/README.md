@@ -10,6 +10,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (6): 11/04/20: [**USACO**](https://github.com/whscompsciclub/Lessons/tree/main/(6)-11.04%20(USACO))
 
 
+&nbsp;
 
 Hello and welcome to **WHS Computer Science Club**!   
 We strive to create a friendly environment to inspire all students to have fun with computer science!  
