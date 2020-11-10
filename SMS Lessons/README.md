@@ -3,7 +3,7 @@
 
 Information/Code from corresponding Lessons can be found here:  
 * > (1): 10/27/20:  [**What is Computer Science Club**](https://github.com/whscompsciclub/Lessons/tree/main/SMS%20Lessons/(1)-10.27%20(What%20is%20Computer%20Science%20Club))
-
+* > (2): 11/10/20:  [**Intro to Programming & Python**](https://github.com/whscompsciclub/Lessons/tree/main/SMS%20Lessons/(2)-11.10%20(Intro%20to%20Programming%20%26%20Python))
 
 &nbsp;
 
