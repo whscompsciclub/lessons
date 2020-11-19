@@ -8,6 +8,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (4): 10/21/20: [**Java & Python**](https://github.com/whscompsciclub/Lessons/tree/main/(4)-10.21%20(Java%20%26%20Python))   
 * > (5): 10/28/20: [**Simple Calculator**](https://github.com/whscompsciclub/Lessons/tree/main/(5)-10.28%20(Simple%20Calculator))
 * > (6): 11/04/20: [**USACO**](https://github.com/whscompsciclub/Lessons/tree/main/(6)-11.04%20(USACO))
+* > (7): 11/18/20: [**Arrays**]()
 
 
 &nbsp;
