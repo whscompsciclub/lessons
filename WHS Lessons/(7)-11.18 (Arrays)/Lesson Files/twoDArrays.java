@@ -1,5 +1,5 @@
 import java.util.*;
-public class twoarrays {
+public class twoDArrays {
     public static void main(String[] args){
         // creates an empty 4 by 2 2d array
         // think about it as a table, rows by columns
