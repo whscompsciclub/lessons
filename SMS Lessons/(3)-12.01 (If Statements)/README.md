@@ -1,4 +1,4 @@
-# Lesson 2: 11/10/20: Intro to Programming & Python 
+# Lesson 3: 12/01/20: Intro to Programming & Python 
 * [Slides](https://bit.ly/smscsc3slides): https://bit.ly/smscsc3slides  
 * [Video](https://bit.ly/smscsc3video):  https://bit.ly/smscsc3video
 * [Lesson Code: main.py](main.py)
