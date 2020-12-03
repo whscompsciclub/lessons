@@ -6,7 +6,7 @@ import java.util.regex.*;
 
 public class maxdistance {
     public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
+	Scanner in = new Scanner(System.in);
       	int n = in.nextInt();
     	// Start your code here
         
