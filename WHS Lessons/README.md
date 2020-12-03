@@ -9,7 +9,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (5): 10/28/20: [**Simple Calculator**](https://github.com/whscompsciclub/Lessons/tree/main/(5)-10.28%20(Simple%20Calculator))
 * > (6): 11/04/20: [**USACO**](https://github.com/whscompsciclub/Lessons/tree/main/(6)-11.04%20(USACO))
 * > (7): 11/18/20: [**Arrays**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(7)-11.18%20(Arrays))
-
+* > (8): 12/02/20: [**Brute Force**]((8)-12.02%20(Brute%20Force))
 
 &nbsp;
 
