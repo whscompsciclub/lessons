@@ -8,3 +8,4 @@
         * [Output File](USACO/test.out)
     * [socdist1](http://usaco.org/index.php?page=viewproblem2&cpid=1035): http://usaco.org/index.php?page=viewproblem2&cpid=1035
         * [Example I/O for socdist1](USACO/socdist1.java)
+* [Machine Learning Preview](MNIST%20CNN%20Demo.ipynb)
