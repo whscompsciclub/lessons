@@ -1,7 +1,6 @@
 # Lesson 9: 12/09/20: Preview of Machine Learning
 * [Slides](https://bit.ly/compsci9slides): https://bit.ly/compsci9slides  
 * [Video](https://bit.ly/compsci9video):  https://bit.ly/compsci9video
-* [HackerRank](https://bit.ly/compscihackerrank): https://bit.ly/compscihackerrank
 * [USACO](USACO)
     * [USACO FAQ](https://blog.ktbyte.com/usaco-faq/): https://blog.ktbyte.com/usaco-faq/
     * [I/O Example](USACO/usacoIO.java)
