@@ -4,5 +4,5 @@
 * [Lesson Code](main.py): main.py
 * [Two Sum](Two%20Sum)
 * [Missing Number](Missing%20Number) 
-* [HackerRank](https://bit.ly/smscschackerrank): https://bit.ly/smscschackerrank)
+* [HackerRank](https://bit.ly/smscschackerrank): https://bit.ly/smscschackerrank
 * [Python Cheatsheet](https://whscompsciclub.github.io/posts/python/)
