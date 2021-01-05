@@ -20,6 +20,7 @@ We strive to create a friendly environment to inspire all students to have fun w
 - Linktree: [https://bit.ly/compscilinktree](https://bit.ly/compscilinktree)
 - GitHub: [https://bit.ly/compscigithub](https://bit.ly/compscigithub)
 - Website: [https://bit.ly/compsciwebsite](https://bit.ly/compsciwebsite)
+- HackerRank: [https://bit.ly/compscihackerrank](https://bit.ly/compscihackerrank)
 - Sign-Up Form: [https://bit.ly/compsciform](https://bit.ly/compsciform)
 - Discord: [https://bit.ly/compscidiscord](https://bit.ly/compscidiscord)
 - Remind: @walnutcs or [https://remind.com/join/walnutcs](https://remind.com/join/walnutcs)
