@@ -11,6 +11,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (7): 11/18/20: [**Arrays**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(7)-11.18%20(Arrays))
 * > (8): 12/02/20: [**Brute Force**]((8)-12.02%20(Brute%20Force))
 * > (9): 12/09/20: [**Preview of Machine Learning**]((9)-12.09%20(Preview%20of%20Machine%20Learning))
+* > (10): 01/06/21: [**USACO Dec.**]((10)-01.06%20(USACO%20Dec.))
 
 &nbsp;
 
