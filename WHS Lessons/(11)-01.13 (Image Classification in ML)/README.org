@@ -7,7 +7,7 @@
     - [[https://www.youtube.com/watch?v=OoUX-nOEjG0][Video]]
   + [[https://www.youtube.com/watch?v=2JEtEdsLdoo][Machine Learning Practicum: Image Classification - YouTube]]
 - [[https://bit.ly/compsci11video][Video]] (https://bit.ly/compsci11video)
-- [[https://colab.research.google.com/drive/1w097UTJcPRX_oWz35DOcjsco1tsAF4F7#scrollTo=jKgyC5K_4O0d][ConvNet Demo]]
+- [[https://colab.research.google.com/drive/1w097UTJcPRX_oWz35DOcjsco1tsAF4F7][ConvNet Demo]]
 * Demo Plan
 be aware of time, go over 'em fast
 - google colab: a place to run jupyter notebooks on google servers so that you don't have to install anything locally
