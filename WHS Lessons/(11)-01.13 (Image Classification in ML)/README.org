@@ -1,0 +1,42 @@
+#+title: Lesson 11: 01/13/21: Image Classification in ML
+* Resources
+- [[https://bit.ly/compsci11slides][Slides]] (https://bit.ly/compsci11slides)
+  + [[https://developers.google.com/machine-learning/crash-course/framing/ml-terminology][Framing: Key ML Terminology | Machine Learning Crash Course]] by Google
+  + Stanford's cs231n 2018 Course: "Lecture 2 | Image Classification"
+    - [[http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture2.pdf][Slides]]
+    - [[https://www.youtube.com/watch?v=OoUX-nOEjG0][Video]]
+  + [[https://www.youtube.com/watch?v=2JEtEdsLdoo][Machine Learning Practicum: Image Classification - YouTube]]
+- [[https://bit.ly/compsci11video][Video]] (https://bit.ly/compsci11video)
+- [[https://colab.research.google.com/drive/1w097UTJcPRX_oWz35DOcjsco1tsAF4F7#scrollTo=jKgyC5K_4O0d][ConvNet Demo]]
+* Demo Plan
+be aware of time, go over 'em fast
+- google colab: a place to run jupyter notebooks on google servers so that you don't have to install anything locally
+- dataset: a large group of (usually labeled) examples used to train models
+- train-test (sometimes validation) split
+  + split the dataset into multiple
+  + one for training (training dataset), the data used to fit the model
+  + one for tuning (validation dataset), used to frequently evaluate the model and see how it is improving. we use the results of the evaluation to update the hyperparameters of the model like learning rates, which is the rate at which the model is updated based on gradient descent (which we will talk about later)
+  + one for testing (test dataset), used to measure the performance of the model on unused and real-world data
+    - the reason why we can't use training dataset is because the model has already seen them so it might get biased, it's like using homework questions on tests, this wouldn't really measure true performance
+- processing the data is a big part of doing machine learning
+  + think of examples of a dataset as points on a graph, each feature is an axis, the whole dataset is a multidimensional graph
+  + normalize the data, scaling all the variables down to fit in the same range so that when learning the model it doesn't take variables that have higher values to be more important
+  + zero mean unit variance: a standard way of normalizing data, for each variable, determine the mean/average and subtract it from all values of this variable across examples, also determine the standard deviation of the variable and divide all values of this variable by the stdev
+  + this one is not very nasty to handle because it's prepared nicely
+- normalization is used when you don't know the distribution of the variable, standardization is used when the data is a bell curve / gaussian distribution
+- images in the dataset are blurry because training on higher resolution images requires order of magnitude of more processing power
+- neural net are kind of like human brain, each node of the network has multiple inputs (usually the output values from node of the previous layer), weights and bias (think mx+b), an activation function, and an output value. in the first layer (input layer), each feature is a node. from the 2nd layer and onwards, each node accepts input from all nodes from the previous layer, apply the weighs and bias, and check how much it should light up (output) using the activation function.
+- keras is great for small projects because it is easy to construct models using the sequential class. the sequential class is basically an array of layers; don't have to be neural net, some can be special like conv layer and pooling or dropout etc.
+- each layer accepts parameters like how many nodes, activation functions, etc
+- explain input_shape: first layer is the input layer, configured using a keyword argumet in the second layer
+- go through the explanation on the nb
+- activation functions like relu introduces non linearity, without which the neural net is basically linear regression which is useless for complex tasks
+- convolution layers extract features from different areas of the image by applying a kernel of n by n values; with them we can capture relationships between pixels that are nearby
+- pooling layers reduce the amount of data we have to process by shrinking the image
+- after defining the model, we also have to specify how the model is trained by calling compile
+  + loss function lets the model know how bad it's doing so it can figure out a way to change the weights and bias using calculus (gradient descent) in the back-propagation step; https://www.youtube.com/watch?v=ErfnhcEV1O8
+  + learning rate controls how much the weights and bias should be updated according to calculus
+  + optimizers are what update the weights and bias. good ones improves the efficiency of the training algorithm. a basic one is stochastic gradient descent which only uses calculus. better ones combine multiple techniques like momentum to change the learning rate, speed up the training process, and improve accuracy
+  + a metric lets you see how well the training process is going; this does not affect the actual training process
+- train
+  + epochs: repeat training on the same data set n times
