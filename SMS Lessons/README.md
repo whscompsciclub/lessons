@@ -7,6 +7,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (3): 12/01/20:  [**If Statements**]((3)-12.01%20(If%20Statements)) 
 * > (4): 12/15/20:  [**Coding Clash**]((4)-12.15%20(Coding%20Clash))
 * > (5): 01/05/21:  [**Loops & Arrays**]((5)-01.05%20(Loops%20&%20Arrays))
+* > (6): 01/19/21:  [**Python Review**]((6)-01.19%20(Python%20Review))
 &nbsp;
 
 Hello and welcome to **SMS Computer Science Club**!   
