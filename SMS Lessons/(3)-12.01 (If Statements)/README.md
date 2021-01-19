@@ -4,4 +4,4 @@
 * [Lesson Code: main.py](main.py)
 * [Basic Calculator](Basic%20Calculator)
 * [HackerRank](https://bit.ly/smscschackerrank): https://bit.ly/smscschackerrank
-* [Python Cheatsheet](https://whscompsciclub.github.io/posts/python/)
+* [Python Cheatsheet](https://whscompsciclub.github.io/lang/python/)
