@@ -1,7 +1,7 @@
 # Lesson 13: 01/27/21: USACO Jan.
 * [Slides](https://bit.ly/compsci13slides): https://bit.ly/compsci13slides  
 * [Video](https://bit.ly/compsci13video):  https://bit.ly/compsci13video
-* [USACO](https://usaco.org): https://usaco.org
+* [USACO](http://usaco.org): http://usaco.org
 * [Bronze USACO Questions](http://usaco.org/index.php?page=jan21results)
     * [Question 1](http://www.usaco.org/index.php?page=viewproblem&cpid=1083): Uddered But Not Herd
         * [Java Solution](udderedButNotHerd.java): udderedButNotHerd.java

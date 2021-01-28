@@ -1,7 +1,7 @@
 # Lesson 10: 01/06/21: USACO Dec.
 * [Slides](https://bit.ly/compsci10slides): https://bit.ly/compsci10slides  
 * [Video](https://bit.ly/compsci10video):  https://bit.ly/compsci10video
-* [USACO](https://usaco.org): https://usaco.org
+* [USACO](http://usaco.org): http://usaco.org
 * [Bronze USACO Questions](http://usaco.org/index.php?page=dec20results)
     * [Question 1](http://usaco.org/index.php?page=viewproblem2&cpid=1059): Do You Know Your ABCs?
         * [Analysis & Solution](abc.org): abc.org
