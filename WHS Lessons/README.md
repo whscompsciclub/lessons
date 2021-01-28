@@ -14,6 +14,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (10): 01/06/21: [**USACO Dec.**]((10)-01.06%20(USACO%20Dec.))
 * > (11): 01/13/21: [**Image Classification in ML**]((11)-01.13%20(Image%20Classification%20in%20ML))
 * > (12): 01/20/21: [**Recursion**]((12)-01.20%20(Recursion))
+* > (13): 01/27/21: [**USACO Jan.**]((13)-01.27%20(USACO%20Jan.))
 
 &nbsp;
 
