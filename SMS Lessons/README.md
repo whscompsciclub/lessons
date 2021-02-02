@@ -8,6 +8,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (4): 12/15/20:  [**Coding Clash**]((4)-12.15%20(Coding%20Clash))
 * > (5): 01/05/21:  [**Loops & Arrays**]((5)-01.05%20(Loops%20&%20Arrays))
 * > (6): 01/19/21:  [**Python Review**]((6)-01.19%20(Python%20Review))
+* > (7): 02/02/21:  [**HTML & CSS**]((7)-02.02%20(HTML%20&%20CSS))
 &nbsp;
 
 Hello and welcome to **SMS Computer Science Club**!   
