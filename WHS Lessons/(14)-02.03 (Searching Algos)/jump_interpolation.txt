@@ -1,0 +1,20 @@
+lin search: O(n)
+jump search: O(sqrt(n))
+bin search: O(logn)
+interpolation search: O(loglogn)
+
+jump search
+- array needs to be sorted like bin search
+
+m = 4
+
+|       |        |            |
+0 1 1 2 3 5 8 13 21 34 55 90 144 233 377 610
+
+interpolation search
+- array needs to be sorted like bin * jump search
+- array needs to be uniformly distributed
+
+0 1 2 3 4 5 6 7
+
+pos = lo + [ (x-arr[lo])*(hi-lo) / (arr[hi]-arr[Lo]) ]
