@@ -4,3 +4,4 @@
 * [Linear Search](LinearSearch.java): LinearSearch.java
 * [Binary Search](BinarySearch.java): BinarySearch.java
 * [Input](textarr.in): textarr.in 
+* [Jump & Interpolation Search](jump_interpolation.txt): jump_interpolation.txt
