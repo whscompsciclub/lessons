@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class LinearSearch {
 
 	public static void main(String[] args) throws IOException {
-		BufferedReader in = new BufferedReader(new FileReader("src/textarr.in"));
+		BufferedReader in = new BufferedReader(new FileReader("textarr.in"));
 		int[] arr = Arrays.stream(in.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 		int target = 7975348;
 		

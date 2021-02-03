@@ -3,4 +3,4 @@
 * [Video](https://bit.ly/compsci14video):  https://bit.ly/compsci14video
 * [Linear Search](LinearSearch.java): LinearSearch.java
 * [Binary Search](BinarySearch.java): BinarySearch.java
-* [Input](testarr.in): testarr.in 
+* [Input](textarr.in): textarr.in 
