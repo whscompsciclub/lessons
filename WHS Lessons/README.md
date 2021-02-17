@@ -17,6 +17,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (13): 01/27/21: [**USACO Jan.**]((13)-01.27%20(USACO%20Jan.))
 * > (14): 02/03/21: [**Searching Algos**]((14)-02.03%20(Searching%20Algos))
 * > (15): 02/10/21: [**Blockchain**]((15)-02.10%20(Blockchain))
+* > (16): 02/17/21: [**Discord Bots**]((16)-02.17%20(Discord%20Bots))
 
 &nbsp;
 
