@@ -18,6 +18,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (14): 02/03/21: [**Searching Algos**]((14)-02.03%20(Searching%20Algos))
 * > (15): 02/10/21: [**Blockchain**]((15)-02.10%20(Blockchain))
 * > (16): 02/17/21: [**Discord Bots**]((16)-02.17%20(Discord%20Bots))
+* > (17): 02/24/21: [**Chrome Dino with AI**]((17)-02.24%20(Chrome%20Dino%20with%20AI))
 
 &nbsp;
 
