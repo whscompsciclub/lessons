@@ -1,0 +1,54 @@
+#+title: Express Website Lesson Plan
+#+roam_tags:
+#+setupfile: ./setup.org
+
+- Install node
+- npm install -g express-generator
+- express -e --git demo-website
+- cd demo-website
+- npm install
+- app.js
+  + imports modules & custom routes (talk about how modules are just javascript files)
+- HTTP
+  + a common language for web servers and browsers (clients)
+  + when visiting a website, browser sends HTTP request to server
+    - request type + headers + request body (only for certain types)
+    - common request types
+      + GET: request webpage content
+        - url & query parameters (?param1=value&param2=value&param3=value...)
+      + POST: upload data to server
+        - has a url and body which contains data
+  + website responds with status code and the requested page if the request suceeds
+    - common status codes (maybe go to wikipedia for http codes)
+      + 200: OK
+      + 400: bad request
+      + 401: not authorized
+      + 403: forbidden
+      + 404: not found
+      + 500: internal server error
+- continue app.js
+  + router is for different routes in an URL, like /, /user, /product, /search, etc
+  + each router may handle different request types with different URL formats
+  + view engines allow programmers to run javascript to dynamic change the HTML before sending it to the client
+  + cookies are data stored in the browser that get sent along every HTTP request
+    - store session ID: useful for proving identity without directly storing plaintext password
+    - server can see cookies in requests and set the cookie in responses
+  + rudimentary stages / loop of a website: development - staging - deployment - production
+    - testing in development (or staging), never in production
+    - don't output sensitive server info for security
+  + middleware: app.use(middleware), intermediate function that process the request partially before it reaches the actual programmer's code; you can create your own middlewares for stuff shared between all handlers
+    - loggers, express.json parses json in body, urlencoded data in body (percent sign encodings), parse cookies in headers, serve static files in public
+    - req : request object
+    - res : response object
+    - next : next middleware, called when done
+  + check out routes/index.js
+    - routing methods & handler functions
+      : router.HTTP_REQUEST('/path/to/the/page', (req, res) => {})
+- starting the server
+  + comment out module.exports = app; add app.listen(8080);
+  + npm i -g nodemon
+  + nodemon app.js
+- if there's still time
+  + upload to github
+  + deploy site to heroku
+  + showcase last year's demo
