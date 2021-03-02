@@ -10,6 +10,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (6): 01/19/21:  [**Python Review**]((6)-01.19%20(Python%20Review))
 * > (7): 02/02/21:  [**HTML & CSS**]((7)-02.02%20(HTML%20&%20CSS))
 * > (8): 02/16/21:  [**Intro to JS & NPM**]((8)-02.16%20(Intro%20to%20JS%20&%20NPM))
+* > (9): 03/02/21:  [**Node.js & Express**]((9)-03.02%20(Node.js%20&%20Express))
 &nbsp;
 
 Hello and welcome to **SMS Computer Science Club**!   
