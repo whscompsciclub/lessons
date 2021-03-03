@@ -19,7 +19,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (15): 02/10/21: [**Blockchain**]((15)-02.10%20(Blockchain))
 * > (16): 02/17/21: [**Discord Bots**]((16)-02.17%20(Discord%20Bots))
 * > (17): 02/24/21: [**Chrome Dino with AI**]((17)-02.24%20(Chrome%20Dino%20with%20AI))
-* > (18): 03/03/21: [**USACO Feb. & Tips]((18)-03.03%20(USACO%20Feb.%20%26%20Tips))
+* > (18): 03/03/21: [**USACO Feb. & Tips**]((18)-03.03%20(USACO%20Feb.%20%26%20Tips))
 
 &nbsp;
 
