@@ -33,41 +33,50 @@ public class yearOfTheCow {
 			// line[4] = zodiac
 			// line[7] = cow2 name
 			
-			System.out.println(Arrays.toString(line));
-			
-//			if(!cow.containsKey(line[0])) {
-//				cow.put(line[0], 0);
-//				System.out.println(cow);
-//			}
+//			System.out.println(Arrays.toString(line));
 			
 			// add the new cow into cowZodiac hashmap
 			cowZodiac.put(line[0], line[4]);
 		
 			
 			if(line[3].equals("previous")) {
-				System.out.println(zodiac.get(line[4]));					// 0-12 of cow1s zodiac
-				System.out.println(zodiac.get(cowZodiac.get(line[7])));		// 0-12 of cow2s zodiac
-				System.out.println(cow.get(line[7]));						// # of yrs cow2 was born before bessie
+//				System.out.println(zodiac.get(line[4]));					// 0-12 of cow1s zodiac
+//				System.out.println(zodiac.get(cowZodiac.get(line[7])));		// 0-12 of cow2s zodiac
+//				System.out.println(cow.get(line[7]));						// # of yrs cow2 was born before bessie
 				
 				// get # years cow1 was born before cow2 and add to # of years cow2 was born before bessie
-				int diff = 12 - zodiac.get(line[4]) + zodiac.get(cowZodiac.get(line[7])) + cow.get(line[7]);
+				int diff = -1;
+				if(zodiac.get(cowZodiac.get(line[7])) > zodiac.get(line[4])) {
+					diff = cow.get(line[7]) - (zodiac.get(cowZodiac.get(line[7])) - zodiac.get(line[4]));// 
+				}
+				else {
+					diff = cow.get(line[7]) - (12 - zodiac.get(line[4]) + zodiac.get(cowZodiac.get(line[7])));// 					
+				}
 //				System.out.println(diff );
 				cow.put(line[0], diff);
 			}
 			else {
 				// line[3] = next
-				System.out.println(zodiac.get(line[4]));					// 0-12 of cow1s zodiac
-				System.out.println(zodiac.get(cowZodiac.get(line[7])));		// 0-12 of cow2s zodiac
-				System.out.println(cow.get(line[7]));						// # of yrs cow2 was born before bessie
+//				System.out.println(zodiac.get(line[4]));					// 0-12 of cow1s zodiac
+//				System.out.println(zodiac.get(cowZodiac.get(line[7])));		// 0-12 of cow2s zodiac
+//				System.out.println(cow.get(line[7]));						// # of yrs cow2 was born before bessie
 				
 				// get # years cow1 was born after corn2 
-				int diff = 12 + zodiac.get(line[4]) - zodiac.get(cowZodiac.get(line[7])) - cow.get(line[7]);
+				int diff = -1;
+				if(zodiac.get(line[4]) - zodiac.get(cowZodiac.get(line[7])) + 12 > 12) {					
+					diff = cow.get(line[7]) + zodiac.get(line[4]) - zodiac.get(cowZodiac.get(line[7]));// - cow.get(line[7]);
+				}
+				else {
+					diff = cow.get(line[7]) + 12 + zodiac.get(line[4]) - zodiac.get(cowZodiac.get(line[7]));// 
+				}
+				
 //				System.out.println(diff);
 				cow.put(line[0], diff);
 			}
 			
 //			System.out.println(cow);
 //			System.out.println(cowZodiac);
+//			System.out.println();
 		}
 
 		in.close();
