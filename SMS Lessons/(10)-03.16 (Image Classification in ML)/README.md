@@ -8,4 +8,4 @@
 * [Video](https://bit.ly/smscsc10video):  https://bit.ly/smscsc10video
 * [Quick, Draw!](https://quickdraw.withgoogle.com/): https://quickdraw.withgoogle.com/
 * [Teachable Machine](https://teachablemachine.withgoogle.com/): https://teachablemachine.withgoogle.com/
-* [Demo](https://drive.google.com/file/d/1ZAFgwznih-1WDzNNgoUYD4jZ48KJTQ09/view?usp=sharing): https://drive.google.com/file/d/1ZAFgwznih-1WDzNNgoUYD4jZ48KJTQ09/view?usp=sharing
+* [Demo](https://colab.research.google.com/drive/1ZAFgwznih-1WDzNNgoUYD4jZ48KJTQ09): https://colab.research.google.com/drive/1ZAFgwznih-1WDzNNgoUYD4jZ48KJTQ09
