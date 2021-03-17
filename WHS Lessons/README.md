@@ -21,6 +21,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (17): 02/24/21: [**Chrome Dino with AI**]((17)-02.24%20(Chrome%20Dino%20with%20AI))
 * > (18): 03/03/21: [**USACO Feb. & Tips**]((18)-03.03%20(USACO%20Feb.%20%26%20Tips))
 * > (19): 03/10/21: [**Breakout w/ OpenGL**]((19)-03.10%20(Breakout%20with%20OpenGL))
+* > (20): 03/17/21: [**USACO US Open 2020**]((20)-03.17%20(USACO%20US%20Open%202020))
 
 &nbsp;
 
