@@ -1,4 +1,4 @@
-# Lesson 19: 03/17/21: USACO US Open 2020
+# Lesson 20: 03/17/21: USACO US Open 2020
 * [Slides](https://bit.ly/compsci20slides): https://bit.ly/compsci20slides  
 * [Video](https://bit.ly/compsci20video):  https://bit.ly/compsci20video
 * [USACO](http://usaco.org): http://usaco.org
