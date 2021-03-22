@@ -2,15 +2,15 @@
 **WHS Computer Science Club Lessons**
 
 Information/Code from corresponding Lessons can be found here:  
-* > (1): 09/30/20:  [**Intro to CS Club**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(01)-09.30%20(Intro%20to%20CS%20Club))
-* > (2): 10/07/20:  [**Overview of Computer Science**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(02)-10.07%20(Overview%20of%20Computer%20Science))
-* > (3): 10/14/20: [**Programming Languages: The Differences**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(03)-10.14%20(Programming%20Languages%3B%20The%20Differences))  
-* > (4): 10/21/20: [**Java & Python**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(04)-10.21%20(Java%20%26%20Python))   
-* > (5): 10/28/20: [**Simple Calculator**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(05)-10.28%20(Simple%20Calculator))
-* > (6): 11/04/20: [**USACO**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(06)-11.04%20(USACO))
-* > (7): 11/18/20: [**Arrays**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(07)-11.18%20(Arrays))
-* > (8): 12/02/20: [**Brute Force**]((08)-12.02%20(Brute%20Force))
-* > (9): 12/09/20: [**Preview of Machine Learning**]((09)-12.09%20(Preview%20of%20Machine%20Learning))
+* > (01): 09/30/20:  [**Intro to CS Club**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(01)-09.30%20(Intro%20to%20CS%20Club))
+* > (02): 10/07/20:  [**Overview of Computer Science**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(02)-10.07%20(Overview%20of%20Computer%20Science))
+* > (03): 10/14/20: [**Programming Languages: The Differences**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(03)-10.14%20(Programming%20Languages%3B%20The%20Differences))  
+* > (04): 10/21/20: [**Java & Python**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(04)-10.21%20(Java%20%26%20Python))   
+* > (05): 10/28/20: [**Simple Calculator**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(05)-10.28%20(Simple%20Calculator))
+* > (06): 11/04/20: [**USACO**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(06)-11.04%20(USACO))
+* > (07): 11/18/20: [**Arrays**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons/(07)-11.18%20(Arrays))
+* > (08): 12/02/20: [**Brute Force**]((08)-12.02%20(Brute%20Force))
+* > (09): 12/09/20: [**Preview of Machine Learning**]((09)-12.09%20(Preview%20of%20Machine%20Learning))
 * > (10): 01/06/21: [**USACO Dec.**]((10)-01.06%20(USACO%20Dec.))
 * > (11): 01/13/21: [**Image Classification in ML**]((11)-01.13%20(Image%20Classification%20in%20ML))
 * > (12): 01/20/21: [**Recursion**]((12)-01.20%20(Recursion))
@@ -22,6 +22,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (18): 03/03/21: [**USACO Feb. & Tips**]((18)-03.03%20(USACO%20Feb.%20%26%20Tips))
 * > (19): 03/10/21: [**Breakout w/ OpenGL**]((19)-03.10%20(Breakout%20with%20OpenGL))
 * > (20): 03/17/21: [**USACO US Open 2020**]((20)-03.17%20(USACO%20US%20Open%202020))
+* > (21): 03/24/21: [**USACO Jan. 2017**]((21)-03.24%20(USACO%20Jan.%202017))
 
 &nbsp;
 
