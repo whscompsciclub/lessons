@@ -131,7 +131,7 @@ public class hps_silver {
 	
 	// dbg
 	public static void dbg(Object obj) {
-		if(testing)
+		if(debug)
 			System.out.println(obj);
 	}
 }
