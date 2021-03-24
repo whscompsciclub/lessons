@@ -2,6 +2,7 @@
 * [Slides](https://bit.ly/compsci21slides): https://bit.ly/compsci21slides  
 * [Video](https://bit.ly/compsci21video):  https://bit.ly/compsci21video
 * [USACO](http://usaco.org): http://usaco.org
+* [psums](psums.txt): psums.txt
 * [2017 Jan.](http://usaco.org/index.php?page=jan17results)
     * Bronze Prob 2: [Hoof, Paper, Scissors](http://usaco.org/index.php?page=viewproblem2&cpid=688)
         * Java Solution: [hps_bronze.java](hps_bronze.java)
