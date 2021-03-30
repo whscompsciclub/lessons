@@ -12,6 +12,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (08): 02/16/21:  [**Intro to JS & NPM**]((08)-02.16%20(Intro%20to%20JS%20&%20NPM))
 * > (09): 03/02/21:  [**Node.js & Express**]((09)-03.02%20(Node.js%20%26%20Express))
 * > (10): 03/16/21:  [**Image Classification in ML**]((10)-03.16%20(Image%20Classification%20in%20ML))
+* > (11): 03/30/21:  [**Chrome Dino with AI**]((11)-03.30%20(Chrome%20Dino%20with%20AI))
 &nbsp;
 
 Hello and welcome to **SMS Computer Science Club**!   
