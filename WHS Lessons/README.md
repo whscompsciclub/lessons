@@ -24,7 +24,7 @@ Information/Code from corresponding Lessons can be found here:
 * > (20): 03/17/21: [**USACO US Open 2020**]((20)-03.17%20(USACO%20US%20Open%202020))
 * > (21): 03/24/21: [**USACO Jan. 2017**]((21)-03.24%20(USACO%20Jan.%202017))
 * > (22): 03/31:21: [**Rock, Paper, Scissors Algo**]((22)-03.31%20(Rock%2C%20Paper%2C%20Scissors%20Algo))
-* > (23): 04/14/21: [**USACO US Open 2021**]((21)-04.14%20(USACO%20US%20Open%202021))
+* > (23): 04/14/21: [**USACO US Open 2021**]((23)-04.14%20(USACO%20US%20Open%202021))
 
 &nbsp;
 
