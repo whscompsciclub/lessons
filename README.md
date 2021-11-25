@@ -3,7 +3,8 @@ We strive to create a friendly environment to inspire all students to have fun w
 
 # WHS & SMS Computer Science Club
 * > [**WHS Lessons**](https://github.com/whscompsciclub/Lessons/tree/main/WHS%20Lessons)
-* > [**SMS Lessons**](https://github.com/whscompsciclub/Lessons/tree/main/SMS%20Lessons)
+* > [**SMS Lessons (20-21)**](https://github.com/whscompsciclub/Lessons/tree/main/SMS%20Lessons%20(20-21))
+* > [**SMS Lessons (21-22)**](https://github.com/whscompsciclub/Lessons/tree/main/SMS%20Lessons%20(21-22))
 
 ### WHS Comp Sci Club Links
 - Linktree: [https://bit.ly/compscilinktree](https://bit.ly/compscilinktree)

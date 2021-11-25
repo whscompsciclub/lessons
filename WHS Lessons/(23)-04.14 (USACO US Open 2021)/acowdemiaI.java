@@ -59,6 +59,11 @@ public class acowdemiaI {
 		}
 		Arrays.sort(arr);
 		
+		// 1 100 2 3
+		// 1 2 3 100
+		// i = 0, j = 4
+		// i -> 0 1 2 3
+
 		// calculate initial hind with a 2 pointer
 		for(int i = 0, j = n; i < n; i++, j--) {
 			if(arr[i] >= j) {

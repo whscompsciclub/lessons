@@ -24,6 +24,22 @@ public class acowdemiaIII {
 		// then check immediate adjacent cows, if theres two on opposite sides then they are first priority for friends
 		// opposite side cows can only be friends at that G, but other 90dg cows can be friends at another G
 		// takes the 2d pts into 1d compression then does it one more time b4 inserting into the Set
+		
+		//   0 1 2 
+		// 0 . G X
+		// 1 . . .
+		// 2 . . .
+		
+		// i * m + j
+
+		// 0 1 2  
+		// 3 4 5
+		// 6 7 8 
+
+		// 0 2
+		// firstNum * (n * m) + secondNum
+		// firstNum is smaller than secondNum
+
 		for(int i = 0; i < n; i++) {
 			for(int j = 0; j < m; j++) {
 				if(mat[i][j] == 'G') {
