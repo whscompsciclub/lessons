@@ -4,4 +4,4 @@
 * [VSCode & Python](https://whscompsciclub.github.io/posts/vscodepython/): whscompsciclub.github.io/posts/vscodepython/
 * [Online Python Compiler](https://replit.com/languages/online-python-compiler): replit.com/languages/online-python-compiler
 * [About Me Assignment](main.py): main.py
-    * [Example Video](example.mp4): example.mp4
+    * [Example Video](https://streamable.com/ma3rcm): streamable.com/ma3rcm
