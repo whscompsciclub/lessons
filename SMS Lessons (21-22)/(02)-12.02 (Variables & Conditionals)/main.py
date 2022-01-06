@@ -11,5 +11,5 @@ elif operation == 3:
 elif operation == 4:
   print(num_1 / num_2)
 else:
-  print("operation invalid, please choose a integer between 1-4")
+  print("operation invalid, please choose an integer between 1-4")
 
