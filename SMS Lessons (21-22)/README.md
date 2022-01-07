@@ -4,6 +4,7 @@
 Information/Code from corresponding Lessons can be found here:  
 * > (01): 11/18/21:  [**Intro to Python**]((01)-11.18%20(Intro%20to%20Python))
 * > (02): 12/02/21:  [**Variables & Conditionals**]((02)-12.02%20(Variables%20%26%20Conditionals))
+* > (03): 01/06/21:  [**Loops**]((03)-01.06%20(Loops))
 &nbsp;
 
 Hello and welcome to **SMS Computer Science Club**!   
