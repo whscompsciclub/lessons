@@ -6,6 +6,8 @@ Information/Code from corresponding Lessons can be found here:
 * > (02): 12/02/21:  [**Variables & Conditionals**]((02)-12.02%20(Variables%20%26%20Conditionals))
 * > (03): 01/06/21:  [**Loops**]((03)-01.06%20(Loops))
 * > (04): 01/20/21:  [**Intro to ML & AI**]((04)-01.20%20(Intro%20to%20ML%20%26%20AI))
+* > (04): 01/20/21:  [**Teachable Machine & Gradient Descnet**]((05)-02.03%20(Teachable%20Machine%%20%26%20Gradient%20Descent))
+
 &nbsp;
 
 Hello and welcome to **SMS Computer Science Club**!   
